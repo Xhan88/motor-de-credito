@@ -1,0 +1,19 @@
+body {
+  background-color: rgb(207, 203, 209);
+  color: #4c4a4a;
+}
+
+#miTabla {
+  border-collapse: collapse;
+  width: 100%;
+}
+
+#miTabla th, #miTabla td {
+  border: 1px solid #6c6a6a;
+  text-align: center;
+  padding: 22px;
+}
+
+#miTabla th {
+  background-color: #e49a9a;
+}
